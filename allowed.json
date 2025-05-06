@@ -1,0 +1,18 @@
+{
+  "rules" : [
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "a51cadb5aa5d1874f48e0d6aac86bb12a97d2b0609d5bf53ce2d6c18cd37a5db",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "bf281c2d73b5d5b1811efd7e1f508752bd5b454659e1525a831206dbf713cc3e",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    }
+  ]
+}
