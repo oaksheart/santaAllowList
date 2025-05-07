@@ -73,6 +73,9 @@ Zscaler Tunnel(/Applications/Zscaler/Zscaler.app/Contents/PlugIns/ZscalerTunnel)
 PriviligesAgent(/Applications/Privileges.app/Contents/MacOS/PrivilegesAgent.app/Contents/MacOS/PrivilegesAgent):
 839ea8ab8e0d3d0821abb3f5aa5a7725a04baa64b8c88c38b5b802d13a6034cc
 
+PriviligesDaemon(/Applications/Privileges.app/Contents/MacOS/PrivilegesDaemon):
+5c3f40e5cb70089be05f20ed75241a90d9740bbf68cd0968a125e323bf1d5014
+
 
 
 
