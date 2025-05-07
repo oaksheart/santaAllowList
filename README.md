@@ -1,10 +1,10 @@
-Falcon Sensor: 
-2a359b962e56e9d6b075c75df346bd0ff37831cb3f288ce24902975f996e4a7f
+Falcon Sensor(/Applications/Falcon.app/Contents/MacOS/Falcon): 
+374b0c72d5d4ab33425e3f558b374512c1beffdada9afc2d42ed6bd9b571f6bf
 
-Jamf:
+Jamf(/usr/local/jamf/bin/jamf):
 d29bfa57952c2e1722d5f6d6972d8e1252c5c4e80938933c8fb6cd1a4952cf8f
 
-Jamf Self Service:
+Jamf Self Service(/Applications/Self\ Service.app/Contents/MacOS/Self\ Service):
 a51cadb5aa5d1874f48e0d6aac86bb12a97d2b0609d5bf53ce2d6c18cd37a5db
 
 Jamf Agent:
