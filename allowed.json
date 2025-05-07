@@ -10,14 +10,161 @@
     {
       "custom_msg" : "",
       "rule_type" : "BINARY",
-      "identifier" : "bf281c2d73b5d5b1811efd7e1f508752bd5b454659e1525a831206dbf713cc3e",
+      "identifier" : "d29bfa57952c2e1722d5f6d6972d8e1252c5c4e80938933c8fb6cd1a4952cf8f",
       "custom_url" : "",
       "policy" : "ALLOWLIST"
     },
     {
       "custom_msg" : "",
       "rule_type" : "BINARY",
-      "identifier" : "d29bfa57952c2e1722d5f6d6972d8e1252c5c4e80938933c8fb6cd1a4952cf8f",
+      "identifier" : "2a359b962e56e9d6b075c75df346bd0ff37831cb3f288ce24902975f996e4a7f",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "73689bff916c6ff1da8ffdf085a523fb1a7f024b281760a0dd4e3f7d1fe20764",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "4aee3627e93ef8c4254948d39612f702c752a9f843176ac91bb7078bc6abeeae",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "bd5305388af3e85d92737caf33a8e009688c34c1c2ce3ff52db318ed159d43a8",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "07c0b656d9f8e4204f9232e6cb9e0874729b0d2bf2164b83bd34217da2495745",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "374b0c72d5d4ab33425e3f558b374512c1beffdada9afc2d42ed6bd9b571f6bf",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "01fc67dd676e42d4531699fd0f2c421f27e247a15fbf73e2dca3b326b34e6607",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "f0d9bc8e69ddcb7360462dd560e65af4b4fe5d22f28e552561d8c1b52e738323",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "3d28292a631bb42c02f5bcb070e608b494f0df740e784fe76c4fba680f421011",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "62ae89c26d7b88c5f11b3b1fa3e92c6afcc68f333aab00dc0251cf4c13fef6fb",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "9bbaa0de84bd4f5bf6d5c3123b51eb84399cd97a0a1b589c720a52f0ae8389c8",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "0b7c53a07fd21bfc456f8717a0cc081150f0dfd6c2ee22f8f54ca37186a2017d",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "4c205e7dff1ab7b05919c4e8bf7a5f0c52594c3cf67fb2594ae548135429d43b",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "67b04550fb159f3068a1bdf2009dde00eecfa5d8ab4b927de805e301574c4ee0",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "3cc3a95f6774c512f2b1bdedaf39fecf73832f0a420f56b1ba30073eec3dfc4e",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "b36a51706cf936109cb168158214088b2e7e280793e52f26b5a32032890b3ead",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "159dbcc41002ae8f97f01b107d4834d7f893a0b0993628aa32002023a28c03dd",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "c4b7b8b05cba56d2ef80f0958c6dddd36f06d5f4768700702e352806f6a1e631",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "ddd9ce5a5c3397b6d6154a28e9b77380190a4330ef5cd8bee3c381dc6db76e37",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "44138c128117d328c3584273793c4b9d9226e2ab552008e66d49cb158de3f61f",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "ed5f179b980f9c70725aeff9d2b732e39b10e5805e4b29e33336ffbf2ca24f71",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "839ea8ab8e0d3d0821abb3f5aa5a7725a04baa64b8c88c38b5b802d13a6034cc",
       "custom_url" : "",
       "policy" : "ALLOWLIST"
     }
