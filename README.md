@@ -22,6 +22,12 @@ bd5305388af3e85d92737caf33a8e009688c34c1c2ce3ff52db318ed159d43a8
 Jamf Authchanger(/Library/Security/SecurityAgentPlugins/JamfConnectLogin.bundle/Contents/MacOS/authchanger):
 4aee3627e93ef8c4254948d39612f702c752a9f843176ac91bb7078bc6abeeae
 
+Jamf Helper(/Library/Application\ Support/JAMF/bin/jamfHelper.app/Contents/MacOS/jamfHelper):
+f0d9bc8e69ddcb7360462dd560e65af4b4fe5d22f28e552561d8c1b52e738323
+
+Jamf Management Action(/Library/Application\ Support/JAMF/bin/Management\ Action.app/Contents/MacOS/Management\ Action):
+3d28292a631bb42c02f5bcb070e608b494f0df740e784fe76c4fba680f421011
+
 Jamf Protect:
 
 Jamf Pro Composer:
