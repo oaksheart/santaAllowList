@@ -13,6 +13,13 @@
       "identifier" : "bf281c2d73b5d5b1811efd7e1f508752bd5b454659e1525a831206dbf713cc3e",
       "custom_url" : "",
       "policy" : "ALLOWLIST"
+    },
+    {
+      "custom_msg" : "",
+      "rule_type" : "BINARY",
+      "identifier" : "d29bfa57952c2e1722d5f6d6972d8e1252c5c4e80938933c8fb6cd1a4952cf8f",
+      "custom_url" : "",
+      "policy" : "ALLOWLIST"
     }
   ]
 }
