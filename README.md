@@ -10,8 +10,6 @@ c4b7b8b05cba56d2ef80f0958c6dddd36f06d5f4768700702e352806f6a1e631
 Falcon LaunchService(/Applications/Falcon.app/Contents/PlugIns/VCIService.bundle/Contents/XPCServices/LauncherService.xpc/Contents/MacOS/LauncherService):
 44138c128117d328c3584273793c4b9d9226e2ab552008e66d49cb158de3f61f
 
-
-
 Jamf(/usr/local/jamf/bin/jamf):
 d29bfa57952c2e1722d5f6d6972d8e1252c5c4e80938933c8fb6cd1a4952cf8f
 
@@ -20,6 +18,9 @@ Jamf Daemon(/Library/Application\ Support/JAMF/Jamf.app/Contents/MacOS/JamfDaemo
 
 Jamf Management Service(/Library/Application\ Support/JAMF/Jamf.app/Contents/MacOS/JamfManagementService.app/Contents/MacOS/JamfManagementService):
 3cc3a95f6774c512f2b1bdedaf39fecf73832f0a420f56b1ba30073eec3dfc4e
+
+Jamf Trampoline(/Library/Application\ Support/JAMF/Jamf.app/Contents/MacOS/JamfManagementService.app/Contents/MacOS/jamf_trampoline):
+ed5f179b980f9c70725aeff9d2b732e39b10e5805e4b29e33336ffbf2ca24f71
 
 Jamf Self Service(/Applications/Self\ Service.app/Contents/MacOS/Self\ Service):
 a51cadb5aa5d1874f48e0d6aac86bb12a97d2b0609d5bf53ce2d6c18cd37a5db
@@ -51,9 +52,6 @@ Jamf Pro Composer:
 
 Jamf Check:
 
-
-
-
 Splashtop Streamer(/Applications/Splashtop\ Streamer.app/Contents/MacOS/Splashtop\ Streamer):
 9bbaa0de84bd4f5bf6d5c3123b51eb84399cd97a0a1b589c720a52f0ae8389c8
 
@@ -71,6 +69,11 @@ b36a51706cf936109cb168158214088b2e7e280793e52f26b5a32032890b3ead
 
 Zscaler Tunnel(/Applications/Zscaler/Zscaler.app/Contents/PlugIns/ZscalerTunnel):
 159dbcc41002ae8f97f01b107d4834d7f893a0b0993628aa32002023a28c03dd
+
+PriviligesAgent(/Applications/Privileges.app/Contents/MacOS/PrivilegesAgent.app/Contents/MacOS/PrivilegesAgent):
+839ea8ab8e0d3d0821abb3f5aa5a7725a04baa64b8c88c38b5b802d13a6034cc
+
+
 
 
 
