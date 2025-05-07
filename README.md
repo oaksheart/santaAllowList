@@ -10,6 +10,9 @@ d29bfa57952c2e1722d5f6d6972d8e1252c5c4e80938933c8fb6cd1a4952cf8f
 Jamf Daemon(/Library/Application\ Support/JAMF/Jamf.app/Contents/MacOS/JamfDaemon.app/Contents/MacOS/JamfDaemon):
 67b04550fb159f3068a1bdf2009dde00eecfa5d8ab4b927de805e301574c4ee0
 
+Jamf Management Service(/Library/Application\ Support/JAMF/Jamf.app/Contents/MacOS/JamfManagementService.app/Contents/MacOS/JamfManagementService):
+3cc3a95f6774c512f2b1bdedaf39fecf73832f0a420f56b1ba30073eec3dfc4e
+
 Jamf Self Service(/Applications/Self\ Service.app/Contents/MacOS/Self\ Service):
 a51cadb5aa5d1874f48e0d6aac86bb12a97d2b0609d5bf53ce2d6c18cd37a5db
 
@@ -48,4 +51,13 @@ Splashtop Streamer Daemon(/Applications/Splashtop\ Streamer.app/Contents/MacOS/S
 
 Zscaler Service(/Applications/Zscaler/Zscaler.app/Contents/PlugIns/ZscalerService):
 4c205e7dff1ab7b05919c4e8bf7a5f0c52594c3cf67fb2594ae548135429d43b
+
+Zscaler UPM Service Controller(/Library/Application\ Support/Zscaler/UPM/UPMServiceController):
+b36a51706cf936109cb168158214088b2e7e280793e52f26b5a32032890b3ead
+
+Zscaler Tunnel(/Applications/Zscaler/Zscaler.app/Contents/PlugIns/ZscalerTunnel):
+159dbcc41002ae8f97f01b107d4834d7f893a0b0993628aa32002023a28c03dd
+
+
+
 
