@@ -13,6 +13,9 @@ Jamf Agent(/usr/local/jamf/bin/jamfAAD):
 Jamf Connect(/Applications/Jamf\ Connect.app/Contents/MacOS/Jamf\ Connect):
 07c0b656d9f8e4204f9232e6cb9e0874729b0d2bf2164b83bd34217da2495745
 
+Jamf Connect CLI(/usr/local/bin/jamfconnect):
+01fc67dd676e42d4531699fd0f2c421f27e247a15fbf73e2dca3b326b34e6607
+
 Jamf Connect Daemon(/Library/Application\ Support/JamfConnect/JCDaemon.app/Contents/MacOS/JCDaemon):
 bd5305388af3e85d92737caf33a8e009688c34c1c2ce3ff52db318ed159d43a8
 
