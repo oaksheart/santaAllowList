@@ -1,4 +1,4 @@
-Falcon Sensor: \n
+Falcon Sensor: 
 2a359b962e56e9d6b075c75df346bd0ff37831cb3f288ce24902975f996e4a7f
 
 Jamf:
