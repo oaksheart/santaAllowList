@@ -160,13 +160,6 @@
       "identifier" : "ed5f179b980f9c70725aeff9d2b732e39b10e5805e4b29e33336ffbf2ca24f71",
       "custom_url" : "",
       "policy" : "ALLOWLIST"
-    },
-    {
-      "custom_msg" : "",
-      "rule_type" : "BINARY",
-      "identifier" : "839ea8ab8e0d3d0821abb3f5aa5a7725a04baa64b8c88c38b5b802d13a6034cc",
-      "custom_url" : "",
-      "policy" : "ALLOWLIST"
     }
   ]
 }
