@@ -13,6 +13,13 @@
       "identifier" : "bf281c2d73b5d5b1811efd7e1f508752bd5b454659e1525a831206dbf713cc3e",
       "custom_url" : "",
       "policy" : "ALLOWLIST"
+    },
+    {
+    "custom_msg" : "",
+    "rule_type" : "TEAMID",
+    "Identifier" : "6KBH6TBU4P",
+    "custom_url" : "",
+    "policy" : "ALLOWLIST" 
     }
   ]
 }
