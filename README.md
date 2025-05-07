@@ -4,6 +4,14 @@ Falcon Sensor(/Applications/Falcon.app/Contents/MacOS/Falcon): 
 Falcon FXPredictService(/Applications/Falcon.app/Contents/PlugIns/StaticAnalysis.bundle/Contents/MacOS/StaticAnalysis):
 62ae89c26d7b88c5f11b3b1fa3e92c6afcc68f333aab00dc0251cf4c13fef6fb
 
+Falcon Notifications(/Applications/Falcon.app/Contents/Library/LaunchServices/Falcon\ Notifications.app/Contents/MacOS/Falcon\ Notifications):
+c4b7b8b05cba56d2ef80f0958c6dddd36f06d5f4768700702e352806f6a1e631
+
+Falcon LaunchService(/Applications/Falcon.app/Contents/PlugIns/VCIService.bundle/Contents/XPCServices/LauncherService.xpc/Contents/MacOS/LauncherService):
+44138c128117d328c3584273793c4b9d9226e2ab552008e66d49cb158de3f61f
+
+
+
 Jamf(/usr/local/jamf/bin/jamf):
 d29bfa57952c2e1722d5f6d6972d8e1252c5c4e80938933c8fb6cd1a4952cf8f
 
@@ -43,11 +51,17 @@ Jamf Pro Composer:
 
 Jamf Check:
 
+
+
+
 Splashtop Streamer(/Applications/Splashtop\ Streamer.app/Contents/MacOS/Splashtop\ Streamer):
 9bbaa0de84bd4f5bf6d5c3123b51eb84399cd97a0a1b589c720a52f0ae8389c8
 
 Splashtop Streamer Daemon(/Applications/Splashtop\ Streamer.app/Contents/MacOS/SRStreamerDaemon):
 0b7c53a07fd21bfc456f8717a0cc081150f0dfd6c2ee22f8f54ca37186a2017d
+
+Zscaler(/Applications/Zscaler/Zscaler.app/Contents/MacOS/Zscaler):
+ddd9ce5a5c3397b6d6154a28e9b77380190a4330ef5cd8bee3c381dc6db76e37
 
 Zscaler Service(/Applications/Zscaler/Zscaler.app/Contents/PlugIns/ZscalerService):
 4c205e7dff1ab7b05919c4e8bf7a5f0c52594c3cf67fb2594ae548135429d43b
